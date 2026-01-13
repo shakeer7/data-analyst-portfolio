@@ -1,11 +1,11 @@
 # data-analyst-portfolio
 # data-analyst-portfolio
-A portfolio showcasing data analysis, engineering projects, and technical skills (SQL, Python, Hadoop, Power BI, Spark, AWS)
+A portfolio showcasing data analysis, engineering projects, and technical skills (SQL, Python, Excel, Power BI)
 
 ## 🚀 **Technical Skills**  
-- **Databases**: SQL, Hive  
+- **Databases**: SQL  
 - **Big Data**: Hadoop, Spark (Theoretical Knowledge)  
-- **Programming**: Python (Pandas, NumPy), PySpark  
+- **Programming**: Python (Pandas, NumPy) 
 - **Visualization**: Power BI, Excel (Pivot Tables, Dashboards)  
 - **Cloud**: AWS, Azure, GCP (Basic Exposure)  
 
@@ -42,15 +42,14 @@ A portfolio showcasing data analysis, engineering projects, and technical skills
 ---
 
 ## 📚 **Certifications**  
+- Sql bootcamp (udemy)
+- Agile project Managment
 - Microsoft Certified: Power BI Data Analyst Associate  
-- Oracle Database SQL Certified Associate  
-- Oracle Cloud Infrastructure 2024 Certified Foundations Associate  
-- Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate  
-- Microsoft Certified: Azure Data Fundamentals  
+- Microsoft Certified: Azure Admistrator Associate
 - Microsoft Certified: Azure Fundamentals  
 
 ---
 
 ## 📞 **Contact**  
-- LinkedIn: [www.linkedin.com/in/manideepkethe]()  
-- Email: [manideepkethe@gmail.com]()  
+- LinkedIn: [www.linkedin.com/in/shakeer-mohammed-384b741a2]()  
+- Email: [mds.shakeer@gmail.com]()  
