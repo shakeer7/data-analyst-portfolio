@@ -20,10 +20,15 @@ A portfolio showcasing data analysis, engineering projects, and technical skills
   - **Amazon** drove 35% of total sales.  
   - Women contributed **34.59%** of orders.  
 
-### 2. Namma Yatri Rides Analysis  
-**Goal**: Explore ride data to identify trends, peak demand periods, and optimize operational performance.  
-**Skills**: Query Optimization, ETL Pipelines.  
-**Tools**: MySQL, PostgreSQL.  
+### 2. sales_store_analysis 
+**Goal**: The store doesn’t have a clear idea about :-
+which products sell the most,
+customers preference,
+which items bring in the most profit,and
+where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions. 
+**Skills**: Data Cleaning, Data wrangling.  
+**Tools**: MSSQL.  
+
 
 ### 3. Uber Rides Cancellation Analysis  
 **Goal**: Analyze ride cancellations focusing on airport vs. city pickups to improve service efficiency.  
